@@ -1,0 +1,19 @@
+{
+  "name": "hydra-plugin-logger",
+  "version": "0.0.1",
+  "description": "Hydra Logger Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flywheelsports/hydra-plugin-logger.git"
+  },
+  "author": "Eric Adum <eric@flywheelsports.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flywheelsports/hydra-plugin-logger/issues"
+  },
+  "homepage": "https://github.com/flywheelsports/hydra-plugin-logger#readme"
+}
